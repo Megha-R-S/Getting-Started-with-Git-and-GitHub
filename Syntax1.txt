@@ -1,0 +1,12 @@
+Working in local:
+#go to the git location
+git clone link
+#go into the repo
+#create new file local
+touch filename.extension
+#add
+git add 'filename'
+#commit
+git commit -m 'filename'
+#before pushing the change in local into remote that we need to config our mail and name
+git push origin
